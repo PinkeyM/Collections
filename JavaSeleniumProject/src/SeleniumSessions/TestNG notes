@@ -1,0 +1,19 @@
+TestNG----unit test framework. Testers can integrate with Selenium and can write test cases.
+TDD Framework: Test Driven Development- we can drive our TC's with help of TestNG framework.
+
+Purpose:
+--Design Test Cases in systematic way.
+--open source, free
+--available in form of jar files
+--also called java unit testing framework, Junit
+Advantages:
+--Design Test Cases in systematic way.
+--generate good HTML reports
+--gives different annotations
+--can define priorities/sequence of TC
+--dependencies
+--grouping
+--*************Interview:data provider feature. suppose a login TC is there and we need to use different data for the same TC, 
+then we use this data provider.
+--
+**********
